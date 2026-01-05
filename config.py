@@ -7,8 +7,8 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("7770334"))
+API_HASH = getenv("657e810764a5b3f7b5fa7e249f1fe186")
 
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("BQB2kN4AAjTevh8QUJIqn-e9Qx3KpQN_Zj2MmX3EAk40X7YzTg3cmJCbQcHr2q_CWiFUyAD0dvu3CZP0GyhvWI4_2lVi9nqivdzfZ3nkvHQb_RUAWz8K_eP9IbH7uBogMtaihVfXi_CauuRr0X2WxAVw63ybUTz4phWo6npCd1_6T2yUngkhNEPT37xdkZJ2ckaxMlfgQObgJyERoBcvXN4Mmjs84I-3ShuMbMMjrsNUhGVBsWkX1kTQIXpAqgcYBXiwN1aEsaOw4ddl9l6iwTuguo9msGXaUt_X-wAU8uoUl92t1OxBa9VDzlgwJMfcUPWNNBbPXrWsSKPbuyST1fqdR_aJRQAAAAByWVNBAA", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
